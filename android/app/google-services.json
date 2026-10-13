@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772089158952",
+    "project_id": "insatnt-firestore",
+    "storage_bucket": "insatnt-firestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772089158952:android:545e4e3b369616a33c041d",
+        "android_client_info": {
+          "package_name": "com.example.session_26_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYTKwndptZTmhs1m-VdgAjMS5PfsH-Az0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
